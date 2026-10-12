@@ -122,7 +122,7 @@ python vmax/scripts/training/train.py total_timesteps=$num_env_steps path_datase
 
 - **[Valentin Charraut](https://github.com/vcharraut)**
 - **[Thomas Tournaire](https://github.com/Titou78)**
-- **[Wael Doulazmi](https://github.com/WaelDLZ)**
+- **[Waël Doulazmi](https://github.com/WaelDLZ)**
 
 ## Acknowledgements
 
